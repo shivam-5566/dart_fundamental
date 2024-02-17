@@ -1,2 +1,1 @@
-# dart_fundamental
-All about drat programming language.
+A sample command-line application providing basic argument parsing with an entrypoint in `bin/`.
